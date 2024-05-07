@@ -11,6 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 - Java 11 or higher
 - Maven
 - IntelliJ IDEA 2023.3.6 or any other IDE that supports Spring Boot
+- OpenAI Key to replce in the Code
+- Astra DB vector DB Connection Details
 
 ### Installing
 
